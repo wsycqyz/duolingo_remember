@@ -5,10 +5,10 @@ on:
 
 env:
   # uncomment these if you are using azure
-  #API_TYPE: ${{ secrets.API_TYPE }}
-  # OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
-  # OPENAI_ENGINE: ${{ secrets.OPENAI_ENGINE }}
-  # OPENAI_API_VERSION: ${{ secrets.OPENAI_API_VERSION }}
+  API_TYPE: ${{ secrets.API_TYPE }}
+  OPENAI_API_BASE: ${{ secrets.OPENAI_API_BASE }}
+  OPENAI_ENGINE: ${{ secrets.OPENAI_ENGINE }}
+  OPENAI_API_VERSION: ${{ secrets.OPENAI_API_VERSION }}
   OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
   EDGE_GPT_COOKIE: ${{ secrets.EDGE_GPT_COOKIE }}
   LATEST_WORDS_NUMBER: 20
