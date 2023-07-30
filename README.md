@@ -1,4 +1,7 @@
 # duolingo_remember
+
+[![Make Duolingo words](https://github.com/wsycqyz/duolingo_remember/actions/workflows/run_duolingo.yml/badge.svg)](https://github.com/wsycqyz/duolingo_remember/actions/workflows/run_duolingo.yml)
+
 Automatically send new words from duolingo to telegram
 
 https://user-images.githubusercontent.com/15976103/233841350-08bf3a61-3447-409d-9e04-22739f9691dd.mp4
